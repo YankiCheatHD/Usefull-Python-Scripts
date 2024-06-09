@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 import socket
 
 def check_connection(ip_address, port):
