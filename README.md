@@ -22,3 +22,5 @@ If you encounter any issues or have suggestions for improvements, please open an
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
+Greetings go out to lucas aka @lucasmllr from the University of Stuttgart with his project xsbert
+
