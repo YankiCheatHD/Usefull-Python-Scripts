@@ -13,7 +13,7 @@ def port_scan(host, ports):
 
 def main():
     host = input("Please enter hostname or IP address: ")
-    ports = range(1, 1025)  # Scans the first 1024 ports
+    ports = range(1, 1025)  # Scans the first 1024 ports, change it if you want it to go faster
     open_ports = port_scan(host, ports)
     if open_ports:
         print(f"Open ports at {host}: {open_ports}")
