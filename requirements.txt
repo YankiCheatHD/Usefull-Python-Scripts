@@ -1,0 +1,5 @@
+                                             Important Python libraries
+
+                            -pygame for FrogGame.py
+                            -pyautogui for the autoclicker.py
+                            -pyxhook for the Keyloger.py
