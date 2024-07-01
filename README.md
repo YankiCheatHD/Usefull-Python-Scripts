@@ -12,6 +12,11 @@ In this repository, you will find scripts that cover a range of use cases includ
 - Machine Learning: Basic implementations of machine learning algorithms and models.
 - Miscellaneous: Other useful scripts that don't fit into the above categories.
 
+##Important Python libraries
+-pygame for little-game.py
+-pyautogui for the autoclicker.py
+-pyxhook for the Keyloger.py
+
 When you want to use my files make sure you have Python installed on your system. You can download it from the [official Website](https://www.python.org/).
 
 We welcome contributions! If you have a useful Python script that you think others might benefit from, feel free to fork this repository, add your script, and submit a pull request. Please ensure your code follows the style and guidelines outlined in the CONTRIBUTING.md file.
